@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\infra\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\infra\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\infra\\schoolcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\infra\\schoolcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\infra\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\infra\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\courseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\infra\\teacherdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\infra\\teacherdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\teachercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\teachercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\migrations\\20241122202826_adicionado cpf professor e aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\migrations\\20241122202826_adicionado cpf professor e aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|c:\\users\\flavio henrique\\documents\\estudos\\c#\\escoladosaber\\escoladosaber\\model\\dtos\\teacherresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B556CA39-2870-4E7C-8935-37AEE9E51C90}|EscolaDoSaber\\EscolaDoSaber.csproj|solutionrelative:escoladosaber\\model\\dtos\\teacherresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Teachers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\TeacherDAL.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Infra\\TeacherDAL.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\TeacherDAL.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Infra\\TeacherDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:27:03.055Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Infra\\StudentDAL.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\StudentDAL.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Infra\\StudentDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:16:30.025Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:33:32.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\DAL.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Infra\\DAL.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\DAL.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Infra\\DAL.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:09:20.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContex.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\SchoolContex.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Infra\\SchoolContex.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Infra\\SchoolContex.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Infra\\SchoolContex.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:16:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomainToDTOMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\Mapping\\DomainToDTOMapping.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\Mapping\\DomainToDTOMapping.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\Mapping\\DomainToDTOMapping.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\Mapping\\DomainToDTOMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:18:42.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\CourseCreateDTO.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\CourseCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\CourseCreateDTO.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\CourseCreateDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA5wA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:56:15.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Courses.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Courses.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-04T14:38:25.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\Course.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\Course.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:37:54.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:15:08.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\CourseResponseDTO.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\CourseResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\CourseResponseDTO.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\CourseResponseDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:17:19.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\Teacher.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\Teacher.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\Teacher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:45:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Program.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Program.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Program.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:34:29.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\Student.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:54:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\StudentResponseDTO.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\StudentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\StudentResponseDTO.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\StudentResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:28:25.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeacherCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\TeacherCreateDTO.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\TeacherCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\TeacherCreateDTO.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\TeacherCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:04:14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:25:02.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\StudentCreateDTO.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\StudentCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\StudentCreateDTO.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\StudentCreateDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:21:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\StudentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\StudentUpdateDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:44:43.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-26T19:35:16.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241122202826_Adicionado cpf professor e aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Migrations\\20241122202826_Adicionado cpf professor e aluno.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Migrations\\20241122202826_Adicionado cpf professor e aluno.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Migrations\\20241122202826_Adicionado cpf professor e aluno.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Migrations\\20241122202826_Adicionado cpf professor e aluno.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:28:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeacherResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\TeacherResponseDTO.cs",
+              "RelativeDocumentMoniker": "EscolaDoSaber\\Model\\DTOs\\TeacherResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Flavio Henrique\\Documents\\Estudos\\C#\\EscolaDoSaber\\EscolaDoSaber\\Model\\DTOs\\TeacherResponseDTO.cs",
+              "RelativeToolTip": "EscolaDoSaber\\Model\\DTOs\\TeacherResponseDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:31:17.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Teachers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Teachers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EscolaDoSaber/True/SqlTable/dbo.Teachers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-25T19:52:40.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
